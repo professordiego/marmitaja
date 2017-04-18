@@ -17,7 +17,6 @@
         </activity>
         <activity android:name=".Cadastro" />
         <activity android:name=".Pedido" />
-        <activity android:name=".Administrador" />
         <activity android:name=".Cliente" />
         <activity android:name=".Configuracao"></activity>
     </application>
