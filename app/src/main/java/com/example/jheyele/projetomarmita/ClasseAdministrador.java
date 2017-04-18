@@ -6,5 +6,5 @@ package com.example.jheyele.projetomarmita;
 
 public class ClasseAdministrador extends ClasseUsuario {
 
-
+int x;
 }
